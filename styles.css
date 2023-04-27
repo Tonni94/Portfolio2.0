@@ -574,7 +574,8 @@ padding-bottom: 1rem;
   margin-top: 7rem;
 }
 .projectcolumn p {
-margin-bottom: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 0rem;
 }
 .projectlist {
   display: flex;
@@ -657,6 +658,7 @@ padding-right: 5rem;;
 }
 .project2column p {
   margin-bottom: 2rem;
+  margin-top: 0rem;
 }
 .project2list {
   display: flex;
