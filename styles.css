@@ -1029,7 +1029,7 @@ justify-content: end;
 }
 
 /*PHONE*/
-@media only screen and (min-width: 600px);
+@media only screen and (min-width: 600px){
 
 * {
   margin: 0;
@@ -2072,4 +2072,5 @@ transition: transform 0.25s ease-out;
 .footer-col-3 a:hover::after {
 transform: scaleX(1);
 transform-origin: bottom left;
+}
 }
