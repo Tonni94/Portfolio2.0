@@ -437,12 +437,6 @@ margin-left: -40%;
 margin-left: -60%;
 }
 
-
-
-
-
-
-
 #radio1:checked ~ .manual-btn{
   background-color: #FEC158;
 }
@@ -455,7 +449,6 @@ margin-left: -60%;
 #radio4:checked ~ .manual-btn{
   background-color: #FEC158;
 }
-
 
 /*About me page*/
 
@@ -580,12 +573,8 @@ padding-bottom: 1rem;
   padding-right: 2rem; 
   margin-top: 7rem;
 }
-.projectcolumn h3 {
-  display: flex;
-}
 .projectcolumn p {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+margin-bottom: 2rem;
 }
 .projectlist {
   display: flex;
