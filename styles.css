@@ -918,6 +918,7 @@ justify-content: end;
   transform: scaleX(1);
   transform-origin: bottom left;
 }
+
 .footer-col h4 {
   font-size: 25px;
   color: rgb(255, 255, 255);
@@ -1011,5 +1012,4 @@ justify-content: end;
 
 /*PHONE*/
 @media only screen and (min-width: 600px) {
-
-
+}
