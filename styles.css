@@ -655,11 +655,8 @@ padding-right: 5rem;;
   padding-right: 2rem; 
   margin-top: 7rem;
 }
-.project2column h3 {
-  display: flex;
-}
+
 .project2column p {
-  margin-top: 2rem;
   margin-bottom: 2rem;
 }
 .project2list {
